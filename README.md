@@ -3,7 +3,7 @@
 Repo of all of my slides related to Android content.
 
 
-## Suggestions
+## Suggestions💡
 
 You can suggest a new subject related to Android opening an issue for this repo.
 
@@ -11,11 +11,11 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 ## Content
 
-#### Accessibility
+#### Accessibility ♿️
 
 - [More Accessible Apps](./accessibility/more_accessibile_apps_android.pdf)
 
-#### Code Patterns
+#### Code Patterns 🧑‍💻
 
 - [Builder](./code_patterns/builder_pattern.pdf)
 
@@ -31,7 +31,7 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Working with Collections - Kotlin](./code_patterns/working_with_collections_kotlin.pdf)
 
-#### Infra
+#### Infra 📐
 
 - [Encrypt vs Hashing](./infra/encrypt_vs_hashing.pdf)
 
@@ -41,7 +41,7 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [My favorite tools](./infra/my_favorite_tools_moro.pdf)
 
-#### UI
+#### UI 🎨
 
 - [Basic Layouts using Compose](./ui/basic_layouts_using_compose.pdf)
 
