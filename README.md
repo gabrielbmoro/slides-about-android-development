@@ -33,6 +33,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 #### Infra 📐
 
+- [Bitrise - CI / CD for Android Projects](./infra/bitrise_cicd_for_android_projects.pdf) with Dr Nefario, Gru, and Minions
+
 - [Encrypt vs Hashing](./infra/encrypt_vs_hashing.pdf) with Neo, Morpheus, and Trinity (Matrix)
 
 - [Gradle Variables](./infra/gradle_variables.pdf) with Homer (The Simpsons)
