@@ -43,6 +43,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [My favorite tools](./infra/my_favorite_tools_moro.pdf)
 
+- [DI world - Koin 3 Annotations](./infra/di_world_koin3_annotations.pdf) with Dr and Ensign Harry Kim (Star Trek - Voyager)
+
 #### UI 🎨
 
 - [Basic Layouts using Compose](./ui/basic_layouts_using_compose.pdf)
