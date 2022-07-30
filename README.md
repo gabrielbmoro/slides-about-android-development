@@ -15,6 +15,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [More Accessible Apps](./accessibility/more_accessibile_apps_android.pdf) with Homer (The Simpsons)
 
+- [Accessibility in Compose](./accessibility/accessibility_in_compose.pdf) with Rick and Morty
+
 #### Code Patterns 🧑‍💻
 
 - [Builder](./code_patterns/builder_pattern.pdf) with Commander Data (Star Trek - Next Generation)
