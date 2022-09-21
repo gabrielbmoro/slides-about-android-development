@@ -57,4 +57,6 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [RecyclerView and Performance](./ui/recycler_view_and_performance.pdf)
 
+- [State in Compose](./ui/state_in_compose.pdf) with Velma, Shaggy, and Scooby
+
 ---
