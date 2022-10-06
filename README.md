@@ -33,6 +33,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Working with Collections - Kotlin](./code_patterns/working_with_collections_kotlin.pdf)
 
+- [Observable Data Holders](./code_patterns/observable_data_holders.pdf) with Dungeon Master (Dungeon and Dragons)
+
 #### Infra 📐
 
 - [Bitrise - CI / CD for Android Projects](./infra/bitrise_cicd_for_android_projects.pdf) with Dr Nefario, Gru, and Minions
