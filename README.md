@@ -35,6 +35,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Observable Data Holders](./code_patterns/observable_data_holders.pdf) with Dungeon Master (Dungeon and Dragons)
 
+- [Flow - Under the water](./code_patterns/flow_under_the_water.pdf) with Spongebob, Patrick, and Squidward
+
 #### Infra 📐
 
 - [Bitrise - CI / CD for Android Projects](./infra/bitrise_cicd_for_android_projects.pdf) with Dr Nefario, Gru, and Minions
