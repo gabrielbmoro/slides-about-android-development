@@ -37,6 +37,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Flow - Under the water](./code_patterns/flow_under_the_water.pdf) with Spongebob, Patrick, and Squidward
 
+- [App architecture](./code_patterns/app_architecture.pdf) with He-Man, Skeletor, and Orko
+
 #### Infra 📐
 
 - [Bitrise - CI / CD for Android Projects](./infra/bitrise_cicd_for_android_projects.pdf) with Dr Nefario, Gru, and Minions
