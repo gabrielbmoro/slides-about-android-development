@@ -13,17 +13,23 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 #### Accessibility ♿️
 
-- [More Accessible Apps](./accessibility/more_accessibile_apps_android.pdf) with Homer (The Simpsons). *Nov, 21*.
-
 - [Accessibility in Compose](./accessibility/accessibility_in_compose.pdf) with Rick and Morty. *Jun, 22*.
+
+- [More Accessible Apps](./accessibility/more_accessibile_apps_android.pdf) with Homer (The Simpsons). *Nov, 21*.
 
 #### Code Patterns 🧑‍💻
 
+- [App architecture](./code_patterns/app_architecture.pdf) with He-Man, Skeletor, and Orko. *Dec, 22*.
+  
 - [Builder](./code_patterns/builder_pattern.pdf) with Commander Data (Star Trek - Next Generation). *Dec, 21*.
 
 - [Factory and Template Method](./code_patterns/factory_and_template_method%20_patterns.pdf) with Mr Neelix (Star Trek - Voyager). *Jan, 22*.
 
+- [Flow - Under the water](./code_patterns/flow_under_the_water.pdf) with Spongebob, Patrick, and Squidward. *Nov, 22*.
+
 - [List users - Android](./code_patterns/list_users_android%20.pdf). *Feb, 21*.
+
+- [Observable Data Holders](./code_patterns/observable_data_holders.pdf) with Dungeon Master (Dungeon and Dragons). *Sep, 22*.
 
 - [Repository Pattern and Productivity](./code_patterns/repository_pattern_and_productivity.pdf). *Feb, 21*.
 
@@ -33,15 +39,11 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Working with Collections - Kotlin](./code_patterns/working_with_collections_kotlin.pdf). *Mar, 21*.
 
-- [Observable Data Holders](./code_patterns/observable_data_holders.pdf) with Dungeon Master (Dungeon and Dragons). *Sep, 22*.
-
-- [Flow - Under the water](./code_patterns/flow_under_the_water.pdf) with Spongebob, Patrick, and Squidward. *Nov, 22*.
-
-- [App architecture](./code_patterns/app_architecture.pdf) with He-Man, Skeletor, and Orko. *Dec, 22*.
-
 #### Infra 📐
 
 - [Bitrise - CI / CD for Android Projects](./infra/bitrise_cicd_for_android_projects.pdf) with Dr Nefario, Gru, and Minions. *May, 22*.
+
+- [DI world - Koin 3 Annotations](./infra/di_world_koin3_annotations.pdf) with Dr and Ensign Harry Kim (Star Trek - Voyager). *May, 22*.
 
 - [Encrypt vs Hashing](./infra/encrypt_vs_hashing.pdf) with Neo, Morpheus, and Trinity (Matrix). *Feb, 22*.
 
@@ -50,8 +52,6 @@ You can suggest a new subject related to Android opening an issue for this repo.
 - [Mockk and Truth](./infra/mockk_and_truth.pdf) with Spock (Star Trek - Enterprise). *Nov, 21*.
 
 - [My favorite tools](./infra/my_favorite_tools_moro.pdf). *Dec, 21*.
-
-- [DI world - Koin 3 Annotations](./infra/di_world_koin3_annotations.pdf) with Dr and Ensign Harry Kim (Star Trek - Voyager). *May, 22*.
 
 #### UI 🎨
 
