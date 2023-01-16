@@ -41,6 +41,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 #### Infra 📐
 
+- [Activity Result API](./infra/activity_result_api.pdf) with Michael, Jim, and Dwight (The office). *Jan, 23*.
+
 - [Bitrise - CI / CD for Android Projects](./infra/bitrise_cicd_for_android_projects.pdf) with Dr Nefario, Gru, and Minions. *May, 22*.
 
 - [DI world - Koin 3 Annotations](./infra/di_world_koin3_annotations.pdf) with Dr and Ensign Harry Kim (Star Trek - Voyager). *May, 22*.
