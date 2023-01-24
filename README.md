@@ -19,6 +19,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 #### Code Patterns 🧑‍💻
 
+- [Annotations](./code_patterns/annotations.pdf) with Mr Miyagi and Daniel-San (Karate Kid). *Jan, 23*
+
 - [App architecture](./code_patterns/app_architecture.pdf) with He-Man, Skeletor, and Orko. *Dec, 22*.
   
 - [Builder](./code_patterns/builder_pattern.pdf) with Commander Data (Star Trek - Next Generation). *Dec, 21*.
