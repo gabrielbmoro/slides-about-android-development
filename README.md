@@ -53,6 +53,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Gradle Variables](./infra/gradle_variables.pdf) with Homer (The Simpsons). *Sep, 21*.
 
+- [MediaPlayer and MediaRecorder](./infra/mediaplayer_and_mediarecorder.pdf) with Fred and Barney (The Flintstones). *Feb, 23*.
+
 - [Mockk and Truth](./infra/mockk_and_truth.pdf) with Spock (Star Trek - Enterprise). *Nov, 21*.
 
 - [My favorite tools](./infra/my_favorite_tools_moro.pdf). *Dec, 21*.
