@@ -29,11 +29,11 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Flow - Under the water](./code_patterns/flow_under_the_water.pdf) with Spongebob, Patrick, and Squidward. *Nov, 22*.
 
-- [Powerful Enums](./code_patterns/powerful_enums.pdf) with Popeye. *Feb, 23*.
-
 - [List users - Android](./code_patterns/list_users_android%20.pdf). *Feb, 21*.
 
 - [Observable Data Holders](./code_patterns/observable_data_holders.pdf) with Dungeon Master (Dungeon and Dragons). *Sep, 22*.
+
+- [Powerful Enums](./code_patterns/powerful_enums.pdf) with Popeye. *Feb, 23*.
 
 - [Repository Pattern and Productivity](./code_patterns/repository_pattern_and_productivity.pdf). *Feb, 21*.
 
