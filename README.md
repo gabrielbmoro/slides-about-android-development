@@ -69,6 +69,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Migrate an Existing App to Compose](./ui/migrate_an_existing_app_to_compose.pdf). *Ago, 21*.
 
+- [Pie Chart - Compose](./ui/pie_chart_compose.pdf) with Velma, Shaggy, and Scooby. *Mar, 23*.
+
 - [RecyclerView and Performance](./ui/recycler_view_and_performance.pdf). *May, 21*.
 
 - [State in Compose](./ui/state_in_compose.pdf) with Velma, Shaggy, and Scooby. *Ago, 22*.
