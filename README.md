@@ -61,6 +61,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [My favorite tools](./infra/my_favorite_tools_moro.pdf). *Dec, 21*.
 
+- [Thermal State](./infra/thermal_states_android.pdf) with Scotty (Star Trek Enterprise). *Apr, 23*.
+
 #### UI 🎨
 
 - [Basic Layouts using Compose](./ui/basic_layouts_using_compose.pdf). *Mar, 22*.
