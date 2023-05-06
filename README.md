@@ -55,7 +55,7 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Gradle Variables](./infra/gradle_variables.pdf) with Homer (The Simpsons). *Sep, 21*.
 
-- [Build Configuration - From Groovy to Kotlin DSL](./infra/kotlin_dsl_build_configuration.pdf) with Dungeon Master (Dungeon and Dragons). *May, 06*.
+- [Build Configuration - From Groovy to Kotlin DSL](./infra/kotlin_dsl_build_configuration.pdf) with Dungeon Master (Dungeon and Dragons). *May, 23*.
 
 - [MediaPlayer and MediaRecorder](./infra/mediaplayer_and_mediarecorder.pdf) with Fred and Barney (The Flintstones). *Feb, 23*.
 
