@@ -53,6 +53,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Encrypt vs Hashing](./infra/encrypt_vs_hashing.pdf) with Neo, Morpheus, and Trinity (Matrix). *Feb, 22*.
 
+- [Gradle Catalogs](./infra/gradle_catalogs.pdf) with Mario and Luigi. *May, 23*.
+
 - [Gradle Variables](./infra/gradle_variables.pdf) with Homer (The Simpsons). *Sep, 21*.
 
 - [Build Configuration - From Groovy to Kotlin DSL](./infra/kotlin_dsl_build_configuration.pdf) with Dungeon Master (Dungeon and Dragons). *May, 23*.
