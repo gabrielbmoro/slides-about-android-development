@@ -33,6 +33,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Observable Data Holders](./code_patterns/observable_data_holders.pdf) with Dungeon Master (Dungeon and Dragons). *Sep, 22*.
 
+- [Paging Library in Compose](./code_patterns/paging_library_in_compose.pdf) with Sonic and Tails. *Jun, 23*.
+
 - [Powerful Enums](./code_patterns/powerful_enums.pdf) with Popeye. *Feb, 23*.
 
 - [Repository Pattern and Productivity](./code_patterns/repository_pattern_and_productivity.pdf). *Feb, 21*.
