@@ -75,6 +75,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Constraint Layout in Compose](./ui/constraint_layout_in_compose.pdf) with Homer, and Lisa (The Simpsons). *Mar, 22*.
 
+- [ExoPlayer + Compose](./ui/exoplayer_compose.pdf) with Wiston, Charon, and Mr. Wick (John Wick). *Jul, 23*.
+
 - [Migrate an Existing App to Compose](./ui/migrate_an_existing_app_to_compose.pdf). *Ago, 21*.
 
 - [Pie Chart - Compose](./ui/pie_chart_compose.pdf) with Velma, Shaggy, and Scooby. *Mar, 23*.
