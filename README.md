@@ -67,6 +67,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [My favorite tools](./infra/my_favorite_tools_moro.pdf). *Dec, 21*.
 
+- [Room Migrations](./infra/room_migratiions.pdf) with Penguins of Madagascar. *Jul, 23*.
+
 - [Thermal State](./infra/thermal_states_android.pdf) with Scotty (Star Trek Enterprise). *Apr, 23*.
 
 #### UI 🎨
