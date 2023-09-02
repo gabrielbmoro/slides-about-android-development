@@ -87,4 +87,6 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [State in Compose](./ui/state_in_compose.pdf) with Velma, Shaggy, and Scooby. *Ago, 22*.
 
+- [UI Tests with Compose](./ui/ui_tests_with_compose.pdf) with Shrek, and Donkey. *Sep, 23*.
+
 ---
