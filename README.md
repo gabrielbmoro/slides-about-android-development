@@ -61,6 +61,8 @@ You can suggest a new subject related to Android opening an issue for this repo.
 
 - [Build Configuration - From Groovy to Kotlin DSL](./infra/kotlin_dsl_build_configuration.pdf) with Dungeon Master (Dungeon and Dragons). *May, 23*.
 
+- [Ktlint](./infra/ktlint.pdf) with Brooklyn Nine Nine. *Sep, 23*.
+
 - [MediaPlayer and MediaRecorder](./infra/mediaplayer_and_mediarecorder.pdf) with Fred and Barney (The Flintstones). *Feb, 23*.
 
 - [Mockk and Truth](./infra/mockk_and_truth.pdf) with Spock (Star Trek - Enterprise). *Nov, 21*.
