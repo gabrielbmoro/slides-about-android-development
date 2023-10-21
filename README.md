@@ -1,6 +1,6 @@
 # Slides about Android Development
 
-- Repo of all of slides related to Android content.
+- Repository of slides about Android content.
 
 - You can **suggest** a new subject related to Android opening an issue for this repo.
 
@@ -8,17 +8,17 @@
 
 ---
 
-## Content
+## Content 📚
 
 The content is grouped in the following sections:
 
-### User Interface
+### User Interface 🖼️
 
-#### View
+#### View 🌟
 
 - [RecyclerView and Performance](https://jamboard.google.com/d/1mjENz8hBH8C98u5Lz06GO4u1Ty13Mhr6MizVrr0WOEA/edit?usp=share_link). *May, 21*.
 
-#### Compose
+#### Compose 🤩
 
 - [UI Tests with Compose](https://docs.google.com/presentation/d/14aWCAt0zquCZSQOotnayUIaQ8xXFnHO0SEhzFb_FipY/edit?usp=share_link) with Shrek, and Donkey. *Sep, 23*.
 
@@ -36,9 +36,9 @@ The content is grouped in the following sections:
 
 - [Paging Library in Compose](https://docs.google.com/presentation/d/1X6s1qgUuse8sgCODfZv6sDJtJXmEWOB-xig80B_aXH0/edit?usp=share_link) with Sonic and Tails. *Jun, 23*.
 
-### Infra
+### Infra 📐
 
-#### Tools
+#### Tools 🛠️
 
 - [My favorite tools](https://docs.google.com/presentation/d/1TMbNXGi3pa2l3dtEhFClwJb1uCqSZxovFSAhSlp-FkY/edit?usp=share_link). *Dec, 21*.
 
@@ -46,11 +46,11 @@ The content is grouped in the following sections:
 
 - [Bitrise - CI / CD for Android Projects](https://docs.google.com/presentation/d/1r7fbqPcwh5FFjLXlXPRRajNxf_HOkAevMUyhUFeEoOQ/edit?usp=share_link) with Dr Nefario, Gru, and Minions. *May, 22*.
 
-#### Security
+#### Security 🔐
 
 - [Encrypt vs Hashing](https://docs.google.com/presentation/d/18C7JpU7OPw0mkd_PhSB1g13jEDepdHcx0Z_EQpafv7Q/edit?usp=share_link) with Neo, Morpheus, and Trinity (Matrix). *Feb, 22*.
 
-#### Libraries
+#### Libraries 📖
 
 - [Thermal State](https://docs.google.com/presentation/d/1qV9Pmxm3jmz4v3_lQpMSYhzk4q7pXlOkQkl1eabSQvo/edit?usp=share_link) with Scotty (Star Trek Enterprise). *Apr, 23*.
 
@@ -64,7 +64,7 @@ The content is grouped in the following sections:
 
 - [Activity Result API](https://docs.google.com/presentation/d/1Q6nHSaJuat2NeeGGm71UyXG_TjidFZMrW6eh0ggz8E0/edit?usp=share_link) with Michael, Jim, and Dwight (The office). *Jan, 23*.
 
-#### Gradle
+#### Gradle 🐘
 
 - [Build Configuration - From Groovy to Kotlin DSL](https://docs.google.com/presentation/d/1-JsNk0RaLG5py_Tvv11PVCyTrxs3XN-0i7jtlbw5G4U/edit?usp=share_link) with Dungeon Master (Dungeon and Dragons). *May, 23*.
 
@@ -72,11 +72,11 @@ The content is grouped in the following sections:
 
 - [Gradle Catalogs](https://docs.google.com/presentation/d/1yXN6_XYsbl60OsQV4FsE-vWKyHDhZfVcxPX4bkgD7sU/edit?usp=share_link) with Mario and Luigi. *May, 23*.
 
-### Code Patterns
+### Code Patterns 📝
 
-#### Patterns
+#### Patterns 🔗
 
-##### Design Patterns
+##### Design Patterns 📏
 
 - [Singleton and Prototype](https://docs.google.com/presentation/d/1fonULsnijGLmNH9_GKBwiTsbVIiiqEpMltYgQAvXiys/edit?usp=share_link) with Yoda (Star Wars). *Jan, 22*.
 
@@ -84,7 +84,7 @@ The content is grouped in the following sections:
 
 - [Builder](https://docs.google.com/presentation/d/1f0jbshpOHK1576o08HsZBxJXjwdi03j_KS80L7KP6t4/edit?usp=share_link) with Commander Data (Star Trek - Next Generation). *Dec, 21*.
 
-##### Architecture Level
+##### Architecture Level 🕹️
 
 - [Repository Pattern and Productivity](https://jamboard.google.com/d/1xYkPDpskY4yOI9VfxNsu4VED-31-PKqg8jk2R2uxLEQ/edit?usp=share_link). *Feb, 21*.
 
@@ -92,7 +92,7 @@ The content is grouped in the following sections:
 
 - [App architecture](https://docs.google.com/presentation/d/14QSuaO_ooxUKgknQY25GEvDIAsQ1GAqd-a5cfQti3BI/edit?usp=share_link) with He-Man, Skeletor, and Orko. *Dec, 22*.
 
-#### Native Resources
+#### Native Resources 🏁
 
 - [Working with Collections - Kotlin](https://jamboard.google.com/d/1QXc0G4vXbFwQxip5UMOSzl8V6wBzVZZ5VGqXRdOGTqs/edit?usp=share_link). *Mar, 21*.
 
@@ -106,7 +106,7 @@ The content is grouped in the following sections:
 
 - [Annotations](https://docs.google.com/presentation/d/1KLNyLW3CORHDHhk6MdehKY1dQ03rHdh6orVryBZ8etA/edit?usp=share_link) with Mr Miyagi and Daniel-San (Karate Kid). *Jan, 23*
 
-### Accessibility
+### Accessibility ♿️
 
 - [Accessibility in Compose](https://docs.google.com/presentation/d/1mBwUk92Lysz5utNgvMoYJPvp6Xl1b5ssYVR6j_xuqUc/edit?usp=share_link) with Rick and Morty. *Jun, 22*.
 
