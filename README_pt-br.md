@@ -16,61 +16,61 @@ O conteúdo é agrupado de acordo com as seguintes seções:
 
 #### View 🌟
 
-- [RecyclerView and Performance](https://jamboard.google.com/d/1mjENz8hBH8C98u5Lz06GO4u1Ty13Mhr6MizVrr0WOEA/edit?usp=share_link). *May, 21*.
+- [RecyclerView e Desempenho](https://jamboard.google.com/d/1N4xi2-56UN-5uSSRZpPRPuJUzXOcxoVicLSJlp7IMYo/edit?usp=share_link). *Mai, 21*.
 
 #### Compose 🤩
 
-- [UI Tests with Compose](https://docs.google.com/presentation/d/14aWCAt0zquCZSQOotnayUIaQ8xXFnHO0SEhzFb_FipY/edit?usp=share_link) with Shrek, and Donkey. *Sep, 23*.
+- [Testes de UI com Compose](https://docs.google.com/presentation/d/1QX-mxG3YgCvBdH-OhtQq9x0OF_slb5GBroJ9Vt9FUJ4/edit?usp=share_link) com Shrek e Burro. *Set, 23*.
 
-- [State in Compose](https://docs.google.com/presentation/d/1I0v9jJH3ubpS3RDosKA2IJQbhQAXZg9v1lPl4_pAr_Q/edit?usp=share_link) with Velma, Shaggy, and Scooby. *Ago, 22*.
+- [Estado e Compose](https://docs.google.com/presentation/d/1mocSGXnsI-ngX8xEL3AOT24ADoK4XW6dIEwYYrogq_w/edit?usp=share_link) com Velma, Salsicha, e Scooby. *Ago, 22*.
 
-- [Pie Chart - Compose](https://docs.google.com/presentation/d/13G8vpOUqeSwZLrFae0DeyfLucHZQRH9QqvZNOfcLwQM/edit?usp=share_link) with Velma, Shaggy, and Scooby. *Mar, 23*.
+- [Gráfico de Torta - Compose](https://docs.google.com/presentation/d/13G8vpOUqeSwZLrFae0DeyfLucHZQRH9QqvZNOfcLwQM/edit?usp=share_link) com Velma, Salsicha, e Scooby. *Mar, 23*.
 
-- [Migrate an Existing App to Compose](https://jamboard.google.com/d/1qj0Va2wpT2TtWoJVDlvtTtOeJ8oCSznaJ7CWdMmJaSQ/edit?usp=share_link). *Ago, 21*.
+- [Migração de View System para Compose](https://jamboard.google.com/d/1rM5PXUVwJbe0S7HW27Nl2fN4TvlHUxNEmslMVALsNio/edit?usp=share_link). *Ago, 21*.
 
-- [ExoPlayer + Compose](https://docs.google.com/presentation/d/12zpWhriXG4Y7y-SYsJYi2jmvs2PfOmw7uPbhjwWAexI/edit?usp=share_link) with Wiston, Charon, and Mr. Wick (John Wick). *Jul, 23*.
+- [ExoPlayer + Compose](https://docs.google.com/presentation/d/1ZMReK_2E49dUla4nsaq_SZzObY5x706-WFpsJLJVeR4/edit?usp=share_link) com Wiston, Charon, e Mr. Wick (John Wick). *Jul, 23*.
 
-- [Constraint Layout in Compose](https://docs.google.com/presentation/d/1pjZgfBYtNLSI1d4kWWXnH3cayArsy_fLXB1kKcy6fWI/edit?usp=share_link) with Homer, and Lisa (The Simpsons). *Mar, 22*.
+- [ConstraintLayout em Compose](https://docs.google.com/presentation/d/1pOdNACAkQa2q6GVzXU0HfD0tUYStnY6BQGnNX40IteQ/edit?usp=share_link) com Homer e Lisa (The Simpsons). *Mar, 22*.
 
-- [Basic Layouts using Compose](https://docs.google.com/presentation/d/1Lngv4uyb8SP5j6l1WfpSNK-896qapD1cRZi9HJZRmxw/edit?usp=share_link). *Mar, 22*.
+- [Layouts Básicos utilizando Compose](https://docs.google.com/presentation/d/1YntsxzbqylZ8aM9qhfiyOCA9y6-HPrfN5jhLenuTQMo/edit?usp=share_link). *Mar, 22*.
 
-- [Paging Library in Compose](https://docs.google.com/presentation/d/1X6s1qgUuse8sgCODfZv6sDJtJXmEWOB-xig80B_aXH0/edit?usp=share_link) with Sonic and Tails. *Jun, 23*.
+- [Biblioteca de Paginação no Compose](https://docs.google.com/presentation/d/1aTvfEge0faE3s58gFggPT6Pbc7yjKDeoWcFWg1zwt3w/edit?usp=share_link) com Sonic e Tails. *Jun, 23*.
 
 ### Infraestrutura 📐
 
 #### Ferramentas 🛠️
 
-- [My favorite tools](https://docs.google.com/presentation/d/1TMbNXGi3pa2l3dtEhFClwJb1uCqSZxovFSAhSlp-FkY/edit?usp=share_link). *Dec, 21*.
+- [Minhas Ferramentas Prediletas](https://docs.google.com/presentation/d/1emg_kiXSpFDVslFSyfuUQmYvrS-JVU8GGhM-wBh5VpM/edit?usp=share_link). *Dez, 21*.
 
-- [Ktlint](https://docs.google.com/presentation/d/1-LU5la1Calc4u0ki8v8PLti54HtHM03S6-MPX3RyyQc/edit?usp=share_link) with Brooklyn Nine Nine. *Sep, 23*.
+- [Ktlint](https://docs.google.com/presentation/d/1v8kjCXdrfxAlGhCSBkmFon9t8uJc4nr_p_VhttQiCc8/edit?usp=share_link) com Brooklyn Nine Nine. *Set, 23*.
 
-- [Bitrise - CI / CD for Android Projects](https://docs.google.com/presentation/d/1r7fbqPcwh5FFjLXlXPRRajNxf_HOkAevMUyhUFeEoOQ/edit?usp=share_link) with Dr Nefario, Gru, and Minions. *May, 22*.
+- [Bitrise - CI / CD para Projetos Android](https://docs.google.com/presentation/d/14yoVqgN0CZdlmTDyXJaPj8sYOcar1CbGwdT4ACEOnCU/edit?usp=share_link) com Dr Nefario, Gru e Minions. *Mai, 22*.
 
 #### Segurança 🔐
 
-- [Encrypt vs Hashing](https://docs.google.com/presentation/d/18C7JpU7OPw0mkd_PhSB1g13jEDepdHcx0Z_EQpafv7Q/edit?usp=share_link) with Neo, Morpheus, and Trinity (Matrix). *Feb, 22*.
+- [Encrypt vs Hashing](https://docs.google.com/presentation/d/1TWBoLdN7VyWank4H2OnRHjWi7UljQFVJtr2tgVUlvxs/edit?usp=share_link) com Neo, Morpheus e Trinity (Matrix). *Fev, 22*.
 
 #### Bibliotecas 📖
 
-- [Thermal State](https://docs.google.com/presentation/d/1qV9Pmxm3jmz4v3_lQpMSYhzk4q7pXlOkQkl1eabSQvo/edit?usp=share_link) with Scotty (Star Trek Enterprise). *Apr, 23*.
+- [Estados Térmicos - Android](https://docs.google.com/presentation/d/1N_CLXZUkD8elKrjA_VL1-JMNAqP6y6nekE2pe9jsPdU/edit?usp=share_link) com Scotty (Star Trek Enterprise). *Abr, 23*.
 
-- [Room Migrations](https://docs.google.com/presentation/d/1aik2CJ6bmvAkMDW4EqpopUyoswgEmf3q0EIoUv6yuWs/edit?usp=share_link) with Penguins of Madagascar. *Jul, 23*.
+- [Migrações com Room](https://docs.google.com/presentation/d/1K8tmdTOGV3kAX_OyLbz157R8BQgbv02JNzLQfw_96_s/edit?usp=share_link) com os Penguins de Madagascar. *Jul, 23*.
 
-- [Mockk and Truth](https://docs.google.com/presentation/d/1HtE9Tu0FIxETz-a4ihVgAgsxFt9U8-OJe33MmxkFvvE/edit?usp=share_link) with Spock (Star Trek - Enterprise). *Nov, 21*.
+- [Mockk e Truth](https://docs.google.com/presentation/d/1MlOuZbabpcbnsNyztL7pTduKmdJV0jF-6yqq9cvBcWE/edit?usp=share_link) com Spock (Star Trek - Enterprise). *Nov, 21*.
 
-- [MediaPlayer and MediaRecorder](https://docs.google.com/presentation/d/1IpUAeRg1NaRmvyr-NSW1jWe1dVfM1rjwmecINBe2xvA/edit?usp=share_link) with Fred and Barney (The Flintstones). *Feb, 23*.
+- [MediaPlayer and MediaRecorder](https://docs.google.com/presentation/d/1XHyItYEDlUo8HE-LvzScV-PCiw1ww5q2JeWZQumElrA/edit?usp=share_link) com Fred e Barney (Os Flintstones). *Fev, 23*.
 
-- [DI world - Koin 3 Annotations](https://docs.google.com/presentation/d/1N42rWSxMnc1LX5gk17sJi1_NY-R7bNxAMcTY8_afr54/edit?usp=share_link) with Dr and Ensign Harry Kim (Star Trek - Voyager). *May, 22*.
+- [Mundo do DI - Anotações do Koin 3](https://docs.google.com/presentation/d/1quiLAuj5XXE67S9LA9jwq_Z7RyDU3MsQnae91f_ISP0/edit?usp=share_link) com Dr e Ensign Harry Kim (Star Trek - Voyager). *Mai, 22*.
 
-- [Activity Result API](https://docs.google.com/presentation/d/1Q6nHSaJuat2NeeGGm71UyXG_TjidFZMrW6eh0ggz8E0/edit?usp=share_link) with Michael, Jim, and Dwight (The office). *Jan, 23*.
+- [API Activity Result](https://docs.google.com/presentation/d/1Xss6vX_5kgaf00YePb9mfPPcxKAEUqKDVw9sjLCVCeQ/edit?usp=share_link) com Michael, Jim e Dwight (The office). *Jan, 23*.
 
 #### Gradle 🐘
 
-- [Build Configuration - From Groovy to Kotlin DSL](https://docs.google.com/presentation/d/1-JsNk0RaLG5py_Tvv11PVCyTrxs3XN-0i7jtlbw5G4U/edit?usp=share_link) with Dungeon Master (Dungeon and Dragons). *May, 23*.
+- [Kotlin DSL - Configuração de Build](https://docs.google.com/presentation/d/14n4PhutNKfhcAE0l1c7L4ndQ-J5inJ3a5GnCPrS99Kk/edit?usp=share_link) com Caverna do Dragão (Mestre dos magos e turma). *Mai, 23*.
 
-- [Gradle Variables](https://docs.google.com/presentation/d/1tWFc_F4gPHUTKX7MXKGHcQ6b5chPRn7sVzYhnu2sIQE/edit?usp=share_link) with Homer (The Simpsons). *Sep, 21*.
+- [Gradle Variables](https://docs.google.com/presentation/d/1DmqNaAJeBqh1rXst8QaZxnpXCfKJmKO5T8fEgf0AgSo/edit?usp=sharing) com Homer (Os Simpsons). *Set, 21*.
 
-- [Gradle Catalogs](https://docs.google.com/presentation/d/1yXN6_XYsbl60OsQV4FsE-vWKyHDhZfVcxPX4bkgD7sU/edit?usp=share_link) with Mario and Luigi. *May, 23*.
+- [Catalogs de Versão](https://docs.google.com/presentation/d/1rxuw5txfr_oyQ3WKdCgC_RgbhoHaglLvtrDgCPUcnqc/edit?usp=share_link) com Mario e Luigi. *Mai, 23*.
 
 ### Padrões de Código 📝
 
