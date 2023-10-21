@@ -24,7 +24,7 @@ O conteúdo é agrupado de acordo com as seguintes seções:
 
 - [Estado e Compose](https://docs.google.com/presentation/d/1mocSGXnsI-ngX8xEL3AOT24ADoK4XW6dIEwYYrogq_w/edit?usp=share_link) com Velma, Salsicha, e Scooby. *Ago, 22*.
 
-- [Gráfico de Torta - Compose](https://docs.google.com/presentation/d/13G8vpOUqeSwZLrFae0DeyfLucHZQRH9QqvZNOfcLwQM/edit?usp=share_link) com Velma, Salsicha, e Scooby. *Mar, 23*.
+- [Gráfico de Torta - Compose](https://docs.google.com/presentation/d/1HgRrZzKBULSUj9D3GoM0Bsl1vC62EszdpZZHXIJ8-jU/edit?usp=share_link) com Velma, Salsicha, e Scooby. *Mar, 23*.
 
 - [Migração de View System para Compose](https://jamboard.google.com/d/1rM5PXUVwJbe0S7HW27Nl2fN4TvlHUxNEmslMVALsNio/edit?usp=share_link). *Ago, 21*.
 
