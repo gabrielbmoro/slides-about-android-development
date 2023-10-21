@@ -1,4 +1,4 @@
-# Slides about Android Development
+# Slides sobre Desenvolvimento Android
 
 - Repositório de slides de conteúdo Android.
 
