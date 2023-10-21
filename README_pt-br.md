@@ -78,36 +78,36 @@ O conteúdo é agrupado de acordo com as seguintes seções:
 
 ##### Padrões de Projeto 📏
 
-- [Singleton and Prototype](https://docs.google.com/presentation/d/1fonULsnijGLmNH9_GKBwiTsbVIiiqEpMltYgQAvXiys/edit?usp=share_link) with Yoda (Star Wars). *Jan, 22*.
+- [Singleton e Prototype](https://docs.google.com/presentation/d/1b5YsNnK3gCClHdxMxwCYg6kY_rmu_iJJ_eya6TPEOhI/edit?usp=share_link) com Yoda (Star Wars). *Jan, 22*.
 
-- [Factory and Template Method](https://docs.google.com/presentation/d/12JfbVVKEm6i5Z8DPp1xui6q_eF4TuCg9DsJXsGM2PvU/edit?usp=share_link) with Mr Neelix (Star Trek - Voyager). *Jan, 22*.
+- [Factory e Template Method](https://docs.google.com/presentation/d/1CMvK6xq5KorrKBCpMxS92gCpqkdU0MpctzmKf6Q88-w/edit?usp=share_link) com Neelix (Star Trek - Voyager). *Jan, 22*.
 
-- [Builder](https://docs.google.com/presentation/d/1f0jbshpOHK1576o08HsZBxJXjwdi03j_KS80L7KP6t4/edit?usp=share_link) with Commander Data (Star Trek - Next Generation). *Dec, 21*.
+- [Builder](https://docs.google.com/presentation/d/1jXuS0wVLS25xrZ9Pol6lT03cO6hVBEdT2KpeVkeuitk/edit?usp=share_link) com Commander Data (Star Trek - Next Generation). *Dez, 21*.
 
 ##### Nível Arquitetural 🕹️
 
-- [Repository Pattern and Productivity](https://jamboard.google.com/d/1xYkPDpskY4yOI9VfxNsu4VED-31-PKqg8jk2R2uxLEQ/edit?usp=share_link). *Feb, 21*.
+- [Padrão Repository e Produtividade](https://jamboard.google.com/d/166ySnYrX_1rjug2OC5Zz0CaqGGfK6BwLiC4DsNXlnts/edit?usp=share_link). *Fev, 21*.
 
-- [List users - Android](https://jamboard.google.com/d/1Pf6sXdyOSD_3Xnc6ej4iJirfK2dVtANO0umvzzo29yk/edit?usp=share_link). *Feb, 21*.
+- [Listar usuários - Android](https://jamboard.google.com/d/1ztbIpMUUA48bPx5Dh2h8FvODyWbwlrRljYi-BiPLQMU/edit?usp=share_link). *Fev, 21*.
 
-- [App architecture](https://docs.google.com/presentation/d/14QSuaO_ooxUKgknQY25GEvDIAsQ1GAqd-a5cfQti3BI/edit?usp=share_link) with He-Man, Skeletor, and Orko. *Dec, 22*.
+- [Arquitetura de um App](https://docs.google.com/presentation/d/1tiFfIzxvm9QkhqDdN-C0wed7QJ098ccDjiqx7bLOKy8/edit?usp=share_link) com He-Man, Esqueleto e Orko. *Dez, 22*.
 
 #### Recursos Nativos 🏁
 
-- [Working with Collections - Kotlin](https://jamboard.google.com/d/1QXc0G4vXbFwQxip5UMOSzl8V6wBzVZZ5VGqXRdOGTqs/edit?usp=share_link). *Mar, 21*.
+- [Trabalhando com Coleções - Kotlin](https://jamboard.google.com/d/1wzd1tKkMZiNGOmBYFwYkGqsCSgJAZSgr62MwBz2j6fc/edit?usp=share_link). *Mar, 21*.
 
-- [Time Operations on Android](https://docs.google.com/presentation/d/1pSRU17y2owjQez2qocSCWonARDlVSFzlopxvq-uDfcI/edit?usp=share_link) with Dr Emmett Brown and Marty Mcfly (Back to the future). *Apr, 22*.
+- [Operações de tempo no Android](https://docs.google.com/presentation/d/1dnxbz9-qcpdt9Yj-1FzlIYyy_8AfUk8HGq3qaUKOnmI/edit?usp=share_link) com Doutor Emmett Brown e Marty Mcfly (Back to the future). *Abr, 22*.
 
-- [Powerful Enums](https://docs.google.com/presentation/d/1So9cyXFQYxPbwMafoPUNMbSS8B3JxgexDwWFFdDIJac/edit?usp=share_link) with Popeye. *Feb, 23*.
+- [Poderosas Enums](https://docs.google.com/presentation/d/1bQuLjMhNxjJCcv-CDgmwpUlQc9T7n2GavhCZB5Cvfmw/edit?usp=share_link) com Popeye. *Fev, 23*.
 
-- [Observable Data Holders](https://docs.google.com/presentation/d/1jJ7fIfCQ2l5JFQ0U9H0GEO46zWg4_3PUn8wzE6Ei02Y/edit?usp=sharing) with Dungeon Master (Dungeon and Dragons). *Sep, 22*.
+- [Observable Data Holders](https://docs.google.com/presentation/d/132nmOIhVt8jT82cCkSW-9ZUfYMT7fupf0NCEwZa-Kt0/edit?usp=share_link) com Mestre dos Magos (Caverna do Dragão). *Set, 22*.
 
-- [Flow - Under the water](https://docs.google.com/presentation/d/14VLDmulVsSZH8abnzTA1rM8HCo0dFo5W5PLBC-t-WII/edit?usp=share_link) with Spongebob, Patrick, and Squidward. *Nov, 22*.
+- [Flow - Até debaixo da água](https://docs.google.com/presentation/d/1v4Y9xMP3L_f7E_HRNNlxvzB0I4T3nRe4ofEkGVbj7jw/edit?usp=share_link) com Bob Esponja, Patrick e Lulamolusco. *Nov, 22*.
 
-- [Annotations](https://docs.google.com/presentation/d/1KLNyLW3CORHDHhk6MdehKY1dQ03rHdh6orVryBZ8etA/edit?usp=share_link) with Mr Miyagi and Daniel-San (Karate Kid). *Jan, 23*
+- [Anotações](https://docs.google.com/presentation/d/1PntnnT_vjtWiGUfg29MWYYgM2eZb7-oepXnVIcRz5X4/edit?usp=share_link) com Senhor Miyagi e Daniel-San (Karate Kid). *Jan, 23*
 
 ### Acessibilidade ♿️
 
-- [Accessibility in Compose](https://docs.google.com/presentation/d/1mBwUk92Lysz5utNgvMoYJPvp6Xl1b5ssYVR6j_xuqUc/edit?usp=share_link) with Rick and Morty. *Jun, 22*.
+- [Acessibilidade em Compose](https://docs.google.com/presentation/d/16uRLQmsawqfzaFLbntVYV01MY4DQNNENNlnRODZ0_kg/edit?usp=share_link) com Rick e Morty. *Jun, 22*.
 
-- [More Accessible Apps](https://docs.google.com/presentation/d/198BQUaxMTh9HCSG6l8FrqteCCGYifPmNt6n8d-U3y1Y/edit?usp=share_link) with Homer (The Simpsons). *Nov, 21*.
+- [Apps mais acessíveis](https://docs.google.com/presentation/d/1vwaoso8XLPw2k81wZBtFFRctKs4KD-nSv4ZpQJ_lkJE/edit?usp=share_link) com Homer (Os Simpsons). *Nov, 21*.
