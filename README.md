@@ -72,6 +72,8 @@ The content is grouped in the following sections:
 
 - [Gradle Catalogs](https://docs.google.com/presentation/d/1yXN6_XYsbl60OsQV4FsE-vWKyHDhZfVcxPX4bkgD7sU/edit?usp=share_link) with Mario and Luigi. *May, 23*.
 
+- [Gradle Conventional Plugins](https://docs.google.com/presentation/d/1hmRuo6SSu6WTIlo1yHd7c9iSAh26xDE6sjHsuLSeehY/edit?usp=sharing) with Jimmy Neutron and cia. *Nov, 23*.
+
 ### Code Patterns 📝
 
 #### Patterns 🔗
