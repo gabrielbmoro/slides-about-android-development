@@ -72,7 +72,7 @@ O conteúdo é agrupado de acordo com as seguintes seções:
 
 - [Catalogs de Versão](https://docs.google.com/presentation/d/1rxuw5txfr_oyQ3WKdCgC_RgbhoHaglLvtrDgCPUcnqc/edit?usp=share_link) com Mario e Luigi. *Mai, 23*.
 
-- [Conventional Plugins com Gradle][https://docs.google.com/presentation/d/1iJ4begoue7lSkIVuWVDyD6nsjftv0H8eEw5dWIfE2HE/edit?usp=sharing] com Jimmy Neutron e cia. *Nov, 23*.
+- [Conventional Plugins com Gradle](https://docs.google.com/presentation/d/1iJ4begoue7lSkIVuWVDyD6nsjftv0H8eEw5dWIfE2HE/edit?usp=sharing) com Jimmy Neutron e cia. *Nov, 23*.
 
 ### Padrões de Código 📝
 
