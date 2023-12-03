@@ -64,6 +64,8 @@ O conteúdo é agrupado de acordo com as seguintes seções:
 
 - [API Activity Result](https://docs.google.com/presentation/d/1Xss6vX_5kgaf00YePb9mfPPcxKAEUqKDVw9sjLCVCeQ/edit?usp=share_link) com Michael, Jim e Dwight (The office). *Jan, 23*.
 
+- [ViewModelComponent no Hilt](https://docs.google.com/presentation/d/1ZcAmnv1C9ofteFV6wYjiAeZBoaAiLEYw5eK-dGFYq7I/edit?usp=sharing) com Dr e Ensign Harry Kim (Star Trek - Voyager). *Dez, 23*.
+
 #### Gradle 🐘
 
 - [Kotlin DSL - Configuração de Build](https://docs.google.com/presentation/d/14n4PhutNKfhcAE0l1c7L4ndQ-J5inJ3a5GnCPrS99Kk/edit?usp=share_link) com Caverna do Dragão (Mestre dos magos e turma). *Mai, 23*.

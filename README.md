@@ -64,6 +64,8 @@ The content is grouped in the following sections:
 
 - [Activity Result API](https://docs.google.com/presentation/d/1Q6nHSaJuat2NeeGGm71UyXG_TjidFZMrW6eh0ggz8E0/edit?usp=share_link) with Michael, Jim, and Dwight (The office). *Jan, 23*.
 
+- [Hilt ViewModelComponent](https://docs.google.com/presentation/d/1_03YGpXuoYW-GUjrlgqNsGg7Pb_K1xDUaOx39lNzdMM/edit?usp=sharing) with Dr and Ensign Harry Kim (Star Trek - Voyager). *Dez, 23*.
+
 #### Gradle 🐘
 
 - [Build Configuration - From Groovy to Kotlin DSL](https://docs.google.com/presentation/d/1-JsNk0RaLG5py_Tvv11PVCyTrxs3XN-0i7jtlbw5G4U/edit?usp=share_link) with Dungeon Master (Dungeon and Dragons). *May, 23*.
