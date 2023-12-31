@@ -36,6 +36,8 @@ O conteúdo é agrupado de acordo com as seguintes seções:
 
 - [Biblioteca de Paginação no Compose](https://docs.google.com/presentation/d/1aTvfEge0faE3s58gFggPT6Pbc7yjKDeoWcFWg1zwt3w/edit?usp=share_link) com Sonic e Tails. *Jun, 23*.
 
+- [derivedStateOf com Compose](https://docs.google.com/presentation/d/1-9tH0oEBNQQ4-Z2530Dp1y97mFhpgpUjjVab38m2w6U/edit?usp=sharing) com Brooklyn Nine-Nine. *Dec, 23*.
+
 ### Infraestrutura 📐
 
 #### Ferramentas 🛠️
