@@ -36,6 +36,8 @@ The content is grouped in the following sections:
 
 - [Paging Library in Compose](https://docs.google.com/presentation/d/1X6s1qgUuse8sgCODfZv6sDJtJXmEWOB-xig80B_aXH0/edit?usp=share_link) with Sonic and Tails. *Jun, 23*.
 
+- [derivedStateOf in Compose](https://docs.google.com/presentation/d/1tU9S8MuaOM9jxyo8ZVodlub6F7mQnt2-jpvtNB78-ME/edit?usp=sharing) with Brooklyn Nine-Nice. *Dec, 23*
+
 ### Infra 📐
 
 #### Tools 🛠️
