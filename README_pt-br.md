@@ -38,6 +38,8 @@ O conteúdo é agrupado de acordo com as seguintes seções:
 
 - [derivedStateOf com Compose](https://docs.google.com/presentation/d/1-9tH0oEBNQQ4-Z2530Dp1y97mFhpgpUjjVab38m2w6U/edit?usp=sharing) com Brooklyn Nine-Nine. *Dec, 23*.
 
+- [debounce e Compose](https://docs.google.com/presentation/d/1d0WZsQoCctHAKKDv6trPDA56LXri1Qm87_lFyBs6HaY/edit?usp=sharing) com Breaking Bad. *Jan, 24*.
+
 ### Infraestrutura 📐
 
 #### Ferramentas 🛠️
