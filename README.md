@@ -38,6 +38,8 @@ The content is grouped in the following sections:
 
 - [derivedStateOf in Compose](https://docs.google.com/presentation/d/1tU9S8MuaOM9jxyo8ZVodlub6F7mQnt2-jpvtNB78-ME/edit?usp=sharing) with Brooklyn Nine-Nice. *Dec, 23*
 
+- [debounce and Compose](https://docs.google.com/presentation/d/1jwjA1o5HGFGe4L1-ri5oBP4Y4o7o7nqGKRHXVFt-izQ/edit?usp=sharing) with Breaking Bad. *Jan, 24*
+
 ### Infra 📐
 
 #### Tools 🛠️
