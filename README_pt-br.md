@@ -70,6 +70,8 @@ O conteúdo é agrupado de acordo com as seguintes seções:
 
 - [ViewModelComponent no Hilt](https://docs.google.com/presentation/d/1ZcAmnv1C9ofteFV6wYjiAeZBoaAiLEYw5eK-dGFYq7I/edit?usp=sharing) com Dr e Ensign Harry Kim (Star Trek - Voyager). *Dez, 23*.
 
+- [Adeus Retrofit, olá Ktor](https://docs.google.com/presentation/d/1l4LQSv29eEnKLWhfSONI-QJQsJeayAFmUI3tNywxCz8/edit?usp=sharing) com Penguins de Madagascar. *Mar, 24*.
+
 #### Gradle 🐘
 
 - [Kotlin DSL - Configuração de Build](https://docs.google.com/presentation/d/14n4PhutNKfhcAE0l1c7L4ndQ-J5inJ3a5GnCPrS99Kk/edit?usp=share_link) com Caverna do Dragão (Mestre dos magos e turma). *Mai, 23*.
