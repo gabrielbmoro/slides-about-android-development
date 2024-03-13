@@ -70,6 +70,8 @@ The content is grouped in the following sections:
 
 - [Hilt ViewModelComponent](https://docs.google.com/presentation/d/1_03YGpXuoYW-GUjrlgqNsGg7Pb_K1xDUaOx39lNzdMM/edit?usp=sharing) with Dr and Ensign Harry Kim (Star Trek - Voyager). *Dez, 23*.
 
+- [Bye Retrofit, Hi Ktor](https://docs.google.com/presentation/d/1y2TEHUy94tZIHH-llfzhbR8aKE4f37Oh7crZpetvkXw/edit?usp=sharing) with Penguins of Madagascar. *Mar, 24*.
+
 #### Gradle 🐘
 
 - [Build Configuration - From Groovy to Kotlin DSL](https://docs.google.com/presentation/d/1-JsNk0RaLG5py_Tvv11PVCyTrxs3XN-0i7jtlbw5G4U/edit?usp=share_link) with Dungeon Master (Dungeon and Dragons). *May, 23*.
